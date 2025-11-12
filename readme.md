@@ -13,7 +13,7 @@ Este proyecto es una API RESTful desarrollada con **Node.js**, **Express** y **S
 1. Cloná el repositorio:
 
 ```
-git clone https://github.com/LautaroIntraub/TP2---tpFinal.git
+git clone https://github.com/LautaroIntraub/Biblioteca-api.git
 
 cd TP2---tpFinal
 
